@@ -2,7 +2,7 @@ import java.util.*;
 import java.lang.Math;
 
 /**
- * Range Maximum Query
+ * Range Maximum Query zzz
  * 
  * The problem description is: Given an array with n integers and m range
  * queries, each query need to return the maximum element between array[i...j].
